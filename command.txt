@@ -1,0 +1,11 @@
+user:register:name:zhang3
+user:get:name:zhang3
+user:exec:name:zhang3:action:buy:object:food:number:5
+user:get:name:zhang3
+user:exec:name:zhang3:action:buy:object:food:number:500
+user:get:name:zhang3
+user:exec:name:zhang3:action:sell:object:food:number:100
+user:get:name:zhang3
+user:exec:name:zhang3:action:sell:object:food:number:3
+user:get:name:zhang3
+game:exit
